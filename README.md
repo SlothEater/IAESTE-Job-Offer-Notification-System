@@ -71,6 +71,7 @@ Contributors
 ------------
 
 -   [Daniel Azzopardi](https://github.com/SlothEater) - Creator and Maintainer
+-   [Amy Calleja](https://github.com/AmyCalleja) - Tester and Passenger Princess
 
 License
 -------
